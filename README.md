@@ -1,4 +1,4 @@
-# att-test-kiran
+# README
 AT&amp;T Test
 
 This is a contact list application developed using:
