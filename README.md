@@ -3,12 +3,19 @@ AT&amp;T Test
 
 This is a contact list application developed using:
 Spring Boot
+
 Spring MVC
+
 Java 1.8
+
 Maven
+
 Templating library
+
 HTML
+
 JavaScript
+
 Hibernate
 
 The UI is very primitive with limited features.
